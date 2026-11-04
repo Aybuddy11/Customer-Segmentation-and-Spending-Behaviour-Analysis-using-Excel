@@ -294,6 +294,8 @@ This dashboard explores:
 
 ![Image dashboard 2](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/25beb1fc322da3888c2fbb287271b27bc8cf5746/dashboard%201.png)
 
+![Image dashboard](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/4406e34f9cc911f7c11822738fa0a7d0c674f3a4/dashboard%203.png)
+
 ---
 
 ##  Key Findings and Insights
