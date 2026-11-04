@@ -125,6 +125,8 @@ I created **eight DAX measures** in Power Pivot using functions including:
 
 These measures were used to summarise customer characteristics and segment performance.
 
+![Image KPIS](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/763b0c0b6a639fa0f4831085923e5b6538482e11/Screenshot%202026-11-04%20094238.png)
+
 ### 4. Exploratory Data Analysis
 
 I developed **15 PivotTable insight tables** to analyse customer demographics, income, and spending patterns.
