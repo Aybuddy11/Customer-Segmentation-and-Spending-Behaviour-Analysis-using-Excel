@@ -71,6 +71,8 @@ The exact dataset URL and redistribution licence are not specified in the suppli
 | Work Experience | Years of work experience |
 | Family Size | Number of family members |
 
+![image Initial Dataset](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/ff7ada0c007c4a08bf965951fcd619f6754d78d7/Screenshot%202026-11-04%20092716.png)
+
 ---
 
 ##  Tools and Technologies
