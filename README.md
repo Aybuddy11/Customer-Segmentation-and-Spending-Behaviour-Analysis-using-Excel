@@ -290,7 +290,7 @@ This dashboard explores:
 
 <!-- Insert Income and Spending dashboard screenshot here -->
 
-![Image dashboard](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/25beb1fc322da3888c2fbb287271b27bc8cf5746/dashboard%201.png)
+![Image dashboard](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/9886f31ea8689a95ae81cad9d8c850bb0dd2ef91/neww.png)
 
 ![Image dashboard 2](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/25beb1fc322da3888c2fbb287271b27bc8cf5746/dashboard%201.png)
 
