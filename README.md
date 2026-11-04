@@ -245,6 +245,8 @@ The resulting 25 combinations produce **24 distinct customer persona names**, be
 
 The High spending-score group uses a threshold of **67–100**, which differs from the High-value Customer Segment threshold.
 
+![Image purchasing status](https://github.com/Aybuddy11/Customer-Segmentation-and-Spending-Behaviour-Analysis-using-Excel/blob/667b93572a776c00f113f22a70eb24f6a4e9ff14/Screenshot%202026-11-04%20101050.png)
+
 ---
 
 ##  Dashboard Preview
